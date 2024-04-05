@@ -26,8 +26,12 @@ Clustering is performed, using the K-Means algorithm, based exclusively on regio
 
 Clustering is now done using all the additional features available, including genre, consoles and critic scores. For this purpose, the K-Prototype clustering algorithm is used. 
 Finally, three main clusters emerged, with distinct properties. An analysis for further profiling has been done to identify them, based on each feature. The detailed analysis is provided in the notebook, and the clusters can be identified (very broadly) as:
+
+
 0: High Chances of Success (NA, PAL)
+
 1: Average Chance of Success (NA, PAL) but Highly suitable for JP
+
 2: Low Chance of Success
 
 [I could probably have named them better, I apologise for the same]
